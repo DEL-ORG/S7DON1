@@ -1,0 +1,18 @@
+# Sample YAML File
+
+person:
+  name: John Doe
+  age: 30
+  address:
+    city: Anytown
+    state: CA
+    zip: "12345"
+
+pets:
+  - name: Fluffy
+    type: cat
+    age: 5
+
+  - name: Max
+    type: dog
+    age: 3
