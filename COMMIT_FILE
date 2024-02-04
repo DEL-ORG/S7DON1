@@ -8,7 +8,7 @@ person:la mama
     state: CA
     zip: "12345"
 
-pets:
+
   - name: Fluffy
     type: cat
     age: 5
