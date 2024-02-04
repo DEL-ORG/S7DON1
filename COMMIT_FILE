@@ -16,3 +16,7 @@ pets:
   - name: Max
     type: dog
     age: 3
+animal
+  lion
+elephant
+zebra
