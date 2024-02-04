@@ -13,3 +13,5 @@ services:
     image: "redis:alpine"
     ports:
       - "6379:6379"
+
+I love devops. I will be an engineer shortly.
